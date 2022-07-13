@@ -1,0 +1,47 @@
+[
+  {
+    "title": "product title 01",
+    "price": 34,
+    "rating": 4.6,
+    "brand": "ikea",
+    "featured": true
+  },
+  {
+    "title": "product title 02",
+    "price": 34,
+    "rating": 3.56,
+    "brand": "liddy"
+  },
+  {
+    "title": "product title 03",
+    "price": 28,
+    "rating": 3.3,
+    "brand": "cross"
+  },
+  {
+    "title": "product title 04",
+    "price": 20,
+    "rating": 4,
+    "brand": "ikea"
+  },
+  {
+    "title": "product title 05",
+    "price": 54,
+    "rating": 2.5,
+    "brand": "liddy",
+    "featured": true
+  },
+  {
+    "title": "product title 06",
+    "price": 314,
+    "rating": 3.5,
+    "brand": "ikea"
+  },
+  {
+    "title": "product title 07",
+    "price": 44,
+    "rating": 4.5,
+    "brand": "cross",
+    "featured": true
+  }
+]
